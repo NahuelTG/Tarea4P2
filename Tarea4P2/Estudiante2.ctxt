@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Estudiante2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Estudiante2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ edad\ peso\ soltero
+comment1.target=Estudiante2(java.lang.String,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ PresentarPareja()
+comment3.params=soltero
+comment3.target=void\ setSoltero(boolean)
+numComments=4

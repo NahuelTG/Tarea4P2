@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Estudiante3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Estudiante3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ edad\ peso\ discapacidad
+comment1.target=Estudiante3(java.lang.String,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ Discapacidad()
+comment3.params=discapacidad
+comment3.target=void\ setDiscapacidad(boolean)
+numComments=4

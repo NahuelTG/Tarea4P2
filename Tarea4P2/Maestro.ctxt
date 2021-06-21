@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Maestro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Maestro\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ edad\ peso
+comment1.target=Maestro(java.lang.String,\ int,\ int)
+comment2.params=Nota1\ Nota2\ Nota3
+comment2.target=double\ promedioNotas(double,\ double,\ double)
+comment3.params=
+comment3.target=double\ MaxEdadPeso()
+comment4.params=hora
+comment4.target=java.lang.String\ Presentacion(double)
+comment4.text=\r\n\ Hora\ esta\ en\ un\ sistema\ de\ 24\ horas\r\n
+numComments=5
